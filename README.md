@@ -6,7 +6,7 @@ Kirsten Culhane, Jen Hay, Simon Todd, Márton Sóskuthy, Allie Osborne, Penny Ha
 
 ## How to use this repository
 
-This repository contains the code and data  for "Variation in the production of te reo Māori opening vowel sequences: Supplementary Materials". 
+This repository contains the code and data  for "Variation in the production of te reo Māori opening vowel sequences". 
 
 
 There are two primary ways to use this repository:
@@ -27,4 +27,4 @@ The repository contains a series of sub-directories.
 
     -   `Plots` contains figures generated in the Markdown file. Most figures are saved in .png format.
 
--   `Markdown`: contains the Rmarkdown files with the code for the analysis and generating the analysis data frames. The 'knit' html versions of the markdown files, and the .bib files used in the analysis, are also included.
+-   `Markdown`: contains the Rmarkdown fil. This with the code used to filter the data, to conduct the  analysis, and to produce the visualisations in the paper. The 'knit' html versions of the markdown files, and the .bib files used in the analysis, are also included.
